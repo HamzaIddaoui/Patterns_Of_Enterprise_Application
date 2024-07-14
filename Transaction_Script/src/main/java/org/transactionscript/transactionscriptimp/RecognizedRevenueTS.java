@@ -1,4 +1,4 @@
-package org.transactionscript.domain;
+package org.transactionscript.transactionscriptimp;
 
 import lombok.RequiredArgsConstructor;
 import lombok.Value;
